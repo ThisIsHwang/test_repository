@@ -11,3 +11,7 @@ commit5
 
 
 commit6
+<<<<<<< HEAD
+
+=======
+>>>>>>> 6326d59da94b10f589bc7edcc8e5dd85be3a176d
